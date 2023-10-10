@@ -1,5 +1,5 @@
 # fbmc-quality-example
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/copperwire/fbmc-quality-examples/HEAD?labpath=example_uses.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/copperwire/fbmc-quality-examples/HEAD?labpath=LinearisationErrorInFlowBased-exercise.ipynb)
 
 You can run the project on Binder, but it is much better to host this notebook yourself.
 To start you need to download data from ENTSOE-transparency and JAO: 
